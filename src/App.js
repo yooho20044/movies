@@ -7,11 +7,11 @@ import {
 } from "react-router-dom";
 
 function App() {
-    return <Router>
+    return <Router basename="/movies">
         <Routes>
             <Route path="/movie/:id" element={<Detail />}>
             </Route> 
-           <Route path="/movies" element={<Home />}>
+           <Route path="/" element={<Home />}>
             </Route> 
         </Routes>
     </Router>;
