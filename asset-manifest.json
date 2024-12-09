@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/movies/static/js/main.ea3dad33.js",
+    "index.html": "/movies/index.html",
+    "main.ea3dad33.js.map": "/movies/static/js/main.ea3dad33.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ea3dad33.js"
+  ]
+}
